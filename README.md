@@ -4,7 +4,7 @@ This repository is meant to provide tips to solve the final assignments of the I
 
 ## List of the assignments
 
-There are six courses in this Professional Certificate, each of which contains a different number of assignments. However, only three courses are detailed here
+There are six courses in this Professional Certificate, each of which contains a different number of assignments. However, only three courses are detailed here:
 
 - [Machine Learning with Python](<./Machine Learning with Python>)
 - [Scalable Machine Learning on Big Data using Apache Spark](<./Scalable Machine Learning on Big Data>)
