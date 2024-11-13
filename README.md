@@ -6,9 +6,9 @@ This repository is meant to provide tips to solve the final assignments of the I
 
 There are six courses in this Professional Certificate, each of which contains a different number of assignments. However, only three courses are detailed here
 
-- [Machine Learning with Python](./ML_with_python)
-- [Scalable Machine Learning on Big Data using Apache Spark](./Scalable_ML_on_Big_Data)
-- [Introduction to Deep Learning & Neural Networks with Keras](./DL_and_NN_with_Keras)
+- [Machine Learning with Python](<./Machine Learning with Python>)
+- [Scalable Machine Learning on Big Data using Apache Spark](<./Scalable Machine Learning on Big Data>)
+- [Introduction to Deep Learning & Neural Networks with Keras](<./Introduction to Deep Learning with Keras>)
 
 ## License
 
